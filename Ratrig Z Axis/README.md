@@ -2,6 +2,8 @@ Modified Ratrig V-core 3 Z axis parts to fit 2020 extrusions with M5 hardware, M
 
 Disclaimer: this design is still in development and has not been tested yet.
 
+Frame sizing guide is coming soon (tm).
+
 Print one of each part in the STL folder except for the front motor mount (print 2 of those). Also, you will need to print 3 of the `pillow_block` parts from the original RatRig source.
 
 Parts needed:
