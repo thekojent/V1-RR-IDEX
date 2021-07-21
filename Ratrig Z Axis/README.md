@@ -13,6 +13,7 @@ Parts needed:
 * 3x [12mm steel ball with M6 thread](https://www.ebay.com/itm/333931699061)
 * 6x [3mm diameter dowel, 35mm length](https://www.aliexpress.com/item/4000473863693.html)
 * 3x [20x10x5mm magnet with single countersunk hole](https://www.aliexpress.com/item/1005001563832338.html)
+* [10x11 cable chain](https://www.amazon.com/dp/B07QLGWQ1L/)
 
 Hardware:
 * Motor mounts
@@ -30,6 +31,9 @@ Hardware:
     * 6x M5 nut
   * MGN rail mounts
     * 12x M3x20mm SHCS
+  * Cable chain mount
+    * 3x M3 heat set insert
+    * 3x M3x8mm FHCS
 * Bed
   * 3x M6x16mm FHCS
   * 3x M6x6mm spacer (source TBD)
