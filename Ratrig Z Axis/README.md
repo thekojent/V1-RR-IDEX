@@ -22,7 +22,7 @@ Hardware:
 * Pillow blocks 
   * 12x M3x18mm SHCS
 * Bed Mounts
-  *  Magnets
+  * Magnets
     * 3x M4x20mm FHCS
     * 3x M4 nut
   * Lead Screw Blocks
